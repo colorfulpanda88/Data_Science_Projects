@@ -3,6 +3,7 @@ Academic data science projects
 
 ### 1. [Analyzing the Performance of Football Teams](https://github.com/colorfulpanda88/Data_Science_Projects/blob/master/Academic_Projects/Analysing_the_performance_of_football_teams.ipynb)
 Analysed historical data about football teams which have participated in the the La Liga Cup and calculated various metrics which can be used as indicators of success for teams in the tournament.
+
 __Skills Used__
   1. Statistics
   2. Python
